@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wandilendou
-- 👀 I’m interested in softwear development(front end)
+- 👀 I’m interested in softwear development(full stack)
 - 🌱 I’m currently learning Html, css and Javascript
 - 💞️ I’m looking to collaborate on front end projects
 - 📫 wandilendou@gmail.com
